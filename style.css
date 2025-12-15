@@ -76,7 +76,6 @@ body {
 }
 
 .dynamic-text::after {
-    content: '|';
     position: absolute;
     right: -10px;
     color: var(--primary-color);
