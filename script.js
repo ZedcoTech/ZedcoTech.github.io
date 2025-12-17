@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function() {
     const nameElement = document.getElementById('changing-name');
-    const names = ['Matin Farhani', 'Reza Farhani'];
+    const names = ['متین فرهانی'];
     let currentIndex = 0;
     let isDeleting = false;
     let charIndex = 0;
