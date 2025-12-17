@@ -55,7 +55,7 @@ body {
 .name-container {
     margin-bottom: 20px;
     min-height: 80px;
-    direction: ltr;
+    direction: rtl;
     text-align: center;
 }
 
